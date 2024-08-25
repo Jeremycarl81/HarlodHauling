@@ -1,0 +1,16 @@
+header {
+    font-size: xx-large;
+    text-align: center;
+}
+
+img {
+    max-height: 400px;
+    max-width: 400px;
+}
+fieldset2 {
+    font-size: xx-large;
+    flex-direction: row;
+    text-align: center;
+    
+    
+}
